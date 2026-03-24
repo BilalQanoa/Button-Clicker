@@ -9,7 +9,7 @@ function toggleLogin(element) {
 }
 
 function hideElement(element) {
-    element.remove();
+    document.querySelector("#add-id").remove();
 }
 
 function likeNinja() {

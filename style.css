@@ -12,6 +12,8 @@ body {
 /* Header */
 .header {
   background-color: #cccccc;
+  max-width: 860px;
+  margin: 0 auto;
   padding: 15px 0;
   border-bottom: 2px solid black;
 }
